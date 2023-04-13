@@ -1,0 +1,31 @@
+What is CAMEL? 
+
+CAMEL stands for Communicative Agents for “Mind” Exploration of Large Scale Language Model Society. 
+
+What is the website for CAMEL? 
+
+The website for CAMEL is https://www.camel-ai.org 
+
+Who are the authors of the paper about CAMEL? 
+
+The authors of the paper are Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, and Bernard Ghanem. 
+
+What is the purpose of the paper on CAMEL? 
+
+The purpose of the paper is to explore the potential of building scalable techniques to facilitate autonomous cooperation among communicative agents and provide insight into their “cognitive” processes. 
+
+What is the proposed approach for achieving autonomous cooperation among communicative agents? 
+
+The proposed approach is a novel communicative agent framework named role-playing, which involves using inception prompting to guide chat agents toward task completion while maintaining consistency with human intentions. 
+
+What challenges arise when requesting chat agents to autonomously cooperate on completing tasks? 
+
+Several challenges such as role flipping, assistant repeats instruction, flake replies, infinite loop of messages, and conversation termination conditions arise. 
+
+What is the quote from the movie Inception used in the paper to describe the role of ideas in transforming the world? 
+
+“What’s the most resilient parasite? An Idea. A single idea from the human mind can build cities. An idea can transform the world and rewrite all the rules. Which is why I have to steal it.” 
+
+What are the contributions of the paper on CAMEL? 
+
+The contributions of the paper are threefold: introducing a novel cooperative agent framework, offering a scalable approach for studying the cooperative behaviors and capabilities of multi-agent systems, and open-sourcing a library to support research on communicative agents and beyond.

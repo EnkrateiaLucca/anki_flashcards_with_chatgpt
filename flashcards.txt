@@ -1,0 +1,4 @@
+How to serialize prompts in LangChain?;You can serialize prompts in LangChain by using JSON or YAML formats, and support specifying everything in one file or storing different components in different files and referencing them.
+What function is used to load prompts in LangChain?;The `load_prompt` function is used to load prompts in LangChain.
+How can you load a PromptTemplate from YAML in LangChain?;You can load a PromptTemplate from YAML in LangChain by creating a YAML file with the required "_type", "input_variables", and "template", and then using the `load_prompt` function to load the YAML file.
+How can you load a FewShotPromptTemplate from JSON in LangChain?;You can load a FewShotPromptTemplate from JSON in LangChain by creating a JSON file with the necessary "_type", "input_variables", "prefix", "example_prompt", "examples", and "suffix", and then using the `load_prompt` function to load the JSON file.

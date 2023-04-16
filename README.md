@@ -17,5 +17,7 @@ export OPENAI_API_KEY="your openai api key"
 ```
 
 # Run
-python anki_flashcards_with_gpt4.py
 
+```
+python anki_flashcards_with_gpt4.py
+```
